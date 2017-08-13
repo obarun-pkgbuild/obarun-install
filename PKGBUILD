@@ -2,9 +2,9 @@
 
 
 pkgname=obarun-install
-_commit=0d14116a236d4dd175ae21d3063956f307504b2e # tag 0.8.9 move syslinux installation to the main install, fix pacman installation bug
+_commit=a48a41e5705a139d1070fcdcc29622866931b0d4 # tag 0.8.9 move syslinux installation to the main install, fix pacman installation bug, fix sed issue on s6.conf
 pkgver=0.8.9
-pkgrel=2
+pkgrel=3
 pkgdesc=" Script for automatic installation"
 arch=(x86_64)
 url="https://github.com/Obarun/obarun-install"
