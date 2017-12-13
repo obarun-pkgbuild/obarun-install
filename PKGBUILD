@@ -2,8 +2,8 @@
 
 
 pkgname=obarun-install
-_commit=44a073e9039e4acf5a03dc233347e0438bdccd41 # tag 0.9.0
-pkgver=0.9.1
+_commit=fb53cd6ec7f59a81903d410f732063f38546987b # tag 0.9.2
+pkgver=0.9.2
 pkgrel=1
 pkgdesc="Script for automatic installation"
 arch=(x86_64)
